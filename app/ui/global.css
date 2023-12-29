@@ -16,3 +16,14 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+/* Styles css learning basic */
+/* Colors */
+
+  /* Color, saturacion, lumnisoidad */
+  /* color: hsl(60, 100%, 100%); */
+  /* Color con opacidad */
+  /* color: rgb(0 0 0 / 50%); */
+/* .sd {
+  color: oklch(348 83% 44% / 50%);
+} */
